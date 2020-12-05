@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Gulp + Tailwind project skeleton</h3>
+  <h3>BCHtipbot website</h3>
 </div>
 
 ---
